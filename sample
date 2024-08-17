@@ -1,0 +1,6 @@
+myworld = str(input("enter the name"))
+name = "good"
+if  myworld==name :
+  print("corret")
+else:
+  print("wrong")
